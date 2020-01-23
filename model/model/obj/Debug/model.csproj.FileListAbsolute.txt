@@ -1,0 +1,6 @@
+C:\Users\juanp\source\repos\model\model\bin\Debug\model.exe.config
+C:\Users\juanp\source\repos\model\model\bin\Debug\model.exe
+C:\Users\juanp\source\repos\model\model\bin\Debug\model.pdb
+C:\Users\juanp\source\repos\model\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\model\model\obj\Debug\model.exe
+C:\Users\juanp\source\repos\model\model\obj\Debug\model.pdb

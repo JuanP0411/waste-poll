@@ -1,0 +1,13 @@
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\Interface.exe.config
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\Interface.exe
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\Interface.pdb
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.exe
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.pdb
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\model.exe
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\model.pdb
+C:\Users\juanp\source\repos\model\Interface\bin\Debug\model.exe.config
+C:\Users\juanp\source\repos\model\Interface\obj\Debug\Interface.csproj.CopyComplete
